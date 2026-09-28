@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse",
+  "description": "Collaborative task management dashboard with real-time sync, Kanban drag-and-drop, user roles, Google Calendar & Slack integration, dark mode, keyboard shortcuts, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

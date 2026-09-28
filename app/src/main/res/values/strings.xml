@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TaskPulse</string>
+    <string name="tab_board">Board</string>
+    <string name="tab_list">List</string>
+    <string name="tab_analytics">Analytics</string>
+    <string name="tab_activity">Activity</string>
+    <string name="tab_integrations">Integrations</string>
+    <string name="btn_new_task">New Task</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_edit">Edit</string>
+    <string name="search_placeholder">Search tasks, tags, or assignees… (Ctrl+K)</string>
+    <string name="shortcuts_title">Keyboard Shortcuts</string>
+    <string name="role_admin">Admin</string>
+    <string name="role_manager">Manager</string>
+    <string name="role_member">Member</string>
+    <string name="role_viewer">Viewer</string>
+    <string name="status_todo">To Do</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_in_review">In Review</string>
+    <string name="status_done">Done</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="priority_urgent">Urgent</string>
+</resources>
